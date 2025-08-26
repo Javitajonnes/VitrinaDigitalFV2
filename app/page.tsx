@@ -8,16 +8,16 @@ const sampleBusinesses = [
   {
     name: "Imprenta Express Balcon A104",
     description:
-      "Impresiones, fotocopias, scaneo de documentos, edicion y redimencionado de imgenes . redaccion de CV. y ¿Porque no? Helados artesanales durante las vacaciones!",
+      "Impresiones, fotocopias, scaneo de documentos, edición y redimensionado de imágenes. Redacción de CV. Y también helados artesanales durante las vacaciones!",
     hours: "Lun-Vie: 17:00-22:30, Dom: A convenir",
     whatsappNumber: "56981977426",
     image: "/printing-shop-storefront.png",
   },
   {
-    name: "Negocio #2",
-    description: "Café artesanal y repostería casera. Ambiente acogedor perfecto para trabajar o relajarse con amigos.",
-    hours: "Lun-Vie: 7:00-20:00, Sáb-Dom: 8:00-22:00",
-    whatsappNumber: "1234567890",
+    name: "Podología clínica Namunaifen",
+    description: "Soy podologa clínica atiendo en domicilio y en mi departamento . Pie diabético - Helomas - Callosidad - Uña encarnada - Helomas interdigitales.",
+    hours: "Martes-Sáb: 10:00-17:00 hrs aprox ",
+    whatsappNumber: "56999275141",
     image: "/cozy-coffee-shop.png",
   },
   {
