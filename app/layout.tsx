@@ -17,8 +17,8 @@ const manrope = Manrope({
 })
 
 export const metadata: Metadata = {
-  title: "Directorio de Negocios Locales",
-  description: "Descubre y conecta con los mejores negocios locales de tu comunidad",
+  title: "Directorio de Negocios Fuentes de Vilumanque 2",
+  description: "Catalogo de negicios del condominio. De vecinos para vecinos!",
   generator: "v0.app",
 }
 
